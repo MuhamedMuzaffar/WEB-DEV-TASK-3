@@ -1,0 +1,32 @@
+ body{
+   background-image:url(webimg.png);
+   background-size:cover;
+   } 
+ 
+ #table
+{
+ border-collapse:collapse;
+ border-color:#FFFFFF;
+ border:none;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+  width:"417";
+ position:absolute;
+ top:40%;
+ left:45%;
+ }
+#msg
+{position:absolute; 
+width:400px; 
+height:25px;
+z-index:1; 
+left: 500px; 
+top: 2px; 
+border: 1px }
+
+#button
+{
+ position:absolute;
+ 
+ top:65%;
+ left:50%;
+}
